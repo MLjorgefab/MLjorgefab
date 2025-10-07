@@ -1,4 +1,4 @@
-<img src="https://github.com/MLjorgefab/MLjorgefab/blob/main/bkackground.png?raw=true" alt="Banner MLjorgefab" width="100%"/>
+<img src="https://github.com/MLjorgefab/MLjorgefab/blob/main/Jorge%20Fabian%20Rivertt.png?raw=true" alt="Banner MLjorgefab" width="100%"/>
 
 
 # 👋 ¡Hola! Soy **Jorge Fabian Rivertt**

@@ -1,11 +1,11 @@
-<img src="URL_DE_TU_BANNER" alt="Banner MLjorgefab" width="100%"/>
+<img src="https://github.com/MLjorgefab/MLjorgefab/blob/main/bkackground.png?raw=true" alt="Banner MLjorgefab" width="100%"/>
 
 
 # 👋 ¡Hola! Soy **Jorge Fabian Rivertt**
 
 💡 _Ingeniero Financiero en formación | Desarrollador Web3 en crecimiento | Explorando la modularidad en Celestia_
 
-<img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Blockchain animation" width="100%"/>
+
 
 ---
 

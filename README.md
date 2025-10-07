@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Jorge Rivertt**
+# 👋 ¡Hola! Soy **Jorge Fabian Rivertt**
 
 💡 _Ingeniero Financiero en formación | Desarrollador Web3 en crecimiento | Explorando la modularidad en Celestia_
 
@@ -42,8 +42,8 @@ A largo plazo, quiero contribuir en proyectos que impulsen la **adopción de DeF
 
 ### 📊 Mis Estadísticas de GitHub
 
-[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeRivertt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeRivertt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=MLjorgefab&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MLjorgefab&hide=javascript,html)
 
 ---
 
